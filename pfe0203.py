@@ -1,0 +1,5 @@
+print("PFE Chapter 2 Exercise 3")
+x=input("How many hours? " )
+y=input("What is the pay rate? ")
+z = float(x)*float(y)
+print("Pay", z)
